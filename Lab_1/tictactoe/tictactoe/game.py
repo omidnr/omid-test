@@ -17,7 +17,7 @@ DEFAULT_PLAYERS = (
     Player(label="X", color="blue"),
     Player(label="O", color="red"),
 )
-
+#test for branch
 
 class Game:
     def __init__(self, players=DEFAULT_PLAYERS, board_size=BOARD_SIZE):
